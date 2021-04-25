@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GB-2-05h-Run_calculator</string>
+    <string name="run_calc">Запустить калькулятор</string>
 </resources>
